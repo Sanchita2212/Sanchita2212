@@ -31,7 +31,7 @@ const sanchita = {
     "Computer Vision & Deep Learning"
   ],
   currentQuest: "Building production-grade AI systems & interning at Magic Bus",
-  leadership: "Data Science & ML Coordinator @ GDG On Campus SIES GST",
+  leadership: "Data Science & ML Coordinator @ GDG On Campus SIES GST | Founding Member @ IET",
   philosophy: "Build practical, verifiable AI applications with clean backend mechanics"
 };
 ```
@@ -82,6 +82,10 @@ I am an AI & Machine Learning student and developer passionate about constructin
   </tr>
 </table>
 
+* 📜 **Patent Published:** Patent published for the project **[AstroGeo](https://github.com/Sanchita2212/AstroGeo)** ([IP India Patent Public Search](https://iprsearch.ipindia.gov.in/PublicSearch)).
+* 🌟 **GSSoC 2025 Contributor:** Selected as a contributor for **[GirlScript Summer of Code (GSSoC) 2025](https://gssoc.girlscript.org/)** — World's Largest Open Source Program.
+* ☁️ **Tier 1 Milestone @ Google Cloud Study Jams 2025:** Gen AI Study Jam Lead for **[GDG On Campus SIES GST](https://www.linkedin.com/company/google-developer-groups-siesgst/)**, guiding 105+ learners to achieve Tier 1 recognition in Google Cloud Study Jams 2025!
+
 ---
 
 ## 🛠️ Technical Arsenal
@@ -122,7 +126,8 @@ I am an AI & Machine Learning student and developer passionate about constructin
 
 ### 🌌 1. [AstroGeo — Earth & Space Data Intelligence Assistant](https://github.com/Sanchita2212/AstroGeo)
 > **Repositories:** [AstroGeo Backend](https://github.com/Sanchita2212/AstroGeo) | [AstroGeo Frontend](https://github.com/Sanchita2212/AstroGeofrontend)  
-> **Stack:** `Python` • `RAG` • `LangChain` • `ChromaDB` • `Neo4j` • `CrewAI` • `FastAPI` • `React`
+> **Stack:** `Python` • `RAG` • `LangChain` • `ChromaDB` • `Neo4j` • `CrewAI` • `FastAPI` • `React`  
+> **Status:** 📜 **Patent Published** ([IP India Search](https://iprsearch.ipindia.gov.in/PublicSearch))
 
 * Worked as part of a project team developing an AI-powered Earth and Space Data Intelligence assistant designed to make satellite and Earth observation datasets accessible via natural language queries.
 * Integrated vector search with ChromaDB and knowledge graph structures in Neo4j for hybrid context retrieval.
@@ -160,13 +165,17 @@ I am an AI & Machine Learning student and developer passionate about constructin
 ## 💼 Work & Leadership Experience
 
 * 💼 **Intern @ Magic Bus**
-  * Currently interning at Magic Bus, applying technology and data-driven solutions in real-world scenarios.
-* 💡 **Data Science & ML Coordinator — Google Developer Groups (GDG) On Campus SIES GST**
-  * Contributing to technical community initiatives, supporting AI/ML learning activities, coordinating workshops, and encouraging student developer engagement.
-* 🎨 **Creative Mentor — Institution of Engineering and Technology (IET)**
-  * Mentoring student teams in design, publicity, marketing, registration workflows, and creative execution for technical events.
-* 📚 **Coordinator — Literary Team**
-  * Managing event coordination, team communication, and student engagement initiatives across campus events.
+  * Currently interning at Magic Bus, applying technology, data science, and AI engineering in real-world scenarios.
+* 💡 **Data Science & ML Coordinator & Gen AI Study Jam Lead — Google Developer Groups (GDG) On Campus SIES GST**
+  * Served as **Project Evaluation Judge** for the **TechSprint** hackathon.
+  * Conducted hands-on Machine Learning (ML) workshops for student developers.
+  * Co-led the chapter to achieve the **Tier 1 Milestone** in Google Cloud Study Jams 2025 (guiding 105+ learners).
+* ⚡ **Founding Member — Institution of Engineering and Technology (IET) On-Campus SIES GST**
+  * Founding member of the official student team of the AI & ML Department.
+  * Conceptualized and introduced the event **"Automation Bounty Hunt"**.
+  * Mentored student teams in event design, publicity, and execution.
+* 📚 **Publicity, Marketing & Design Lead — Literary Team**
+  * Managed publicity strategies, marketing campaigns, and poster design across campus events.
 
 ---
 
