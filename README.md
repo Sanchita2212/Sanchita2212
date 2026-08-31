@@ -1,16 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanchita Gupta
+# ❓ WHO'S THAT POKÉMON?
 
-### 🤖 B.Tech Student in AI & ML | RAG Systems & AI Engineering
+*You see a silhouette in the distance...*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+AI+%26+Machine+Learning+Student;Building+RAG+Pipelines+%26+Multi-Agent+Workflows;Computer+Vision+%26+Deep+Learning+Applications;Moving+From+Prototypes+To+Production+AI+Engineering" alt="Typing SVG" />
-</p>
+Tall? Maybe.  
+Sleep deprived? Definitely.  
+Writes code at 2 AM? Absolutely.  
+
+...
+
+# ⚡ IT'S SANCHITA GUPTA!
+
+> *A developer who wandered into GitHub  
+> and decided to stay.*
+
+💼 **Status:** Interning @ **Magic Bus**  
+🎮 **Class:** AI & Machine Learning Developer  
+🧪 **Type:** `Python` • `RAG Pipelines` • `PyTorch` • `FastAPI` • `Neo4j`  
+✨ **Ability:** `Rapid Prototyping` & `Multi-Agent AI Workflows`  
+💀 **Weakness:** `CSS` *(centering a div is a boss battle)*  
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchita2212)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchitagupta-aiml/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -20,6 +34,7 @@
 
 ```typescript
 const sanchita = {
+  status: "Interning @ Magic Bus 💼",
   education: "B.Tech in Artificial Intelligence & Machine Learning",
   coreFocus: [
     "RAG Architectures & Hybrid Search",
@@ -27,13 +42,29 @@ const sanchita = {
     "Multi-Agent AI Workflows",
     "Computer Vision & Deep Learning"
   ],
-  currentQuest: "Transitioning from academic & hackathon projects to production-oriented AI engineering",
+  currentQuest: "Building production-grade AI systems & interning at Magic Bus",
   leadership: "Data Science & ML Coordinator @ GDG On Campus SIES GST",
-  philosophy: "Build practical, verifiable AI applications with a deep understanding of the underlying mechanics"
+  philosophy: "Build practical, verifiable AI applications with clean backend mechanics"
 };
 ```
 
-I am an AI & Machine Learning student passionate about constructing end-to-end intelligent applications. My technical exploration centers on retrieval-augmented generation (RAG), graph databases, computer vision, and agentic workflows. I focus on developing clean, practical solutions while continuously leveling up my engineering practices to bridge the gap between prototypes and production systems.
+I am an AI & Machine Learning student and developer passionate about constructing end-to-end intelligent applications. Currently interning at **Magic Bus**, my technical exploration centers on retrieval-augmented generation (RAG), graph databases, computer vision, and agentic workflows. I focus on rapid prototyping and bridging the gap between hackathon prototypes and production-grade systems.
+
+---
+
+## 🎯 Current Mission
+
+### 🔄 The AI Innovation Cycle
+
+```text
+📚 Research Papers ➜ 🔧 Transform ➜ 🏭 Production Systems
+       ⬇️
+🤝 Orchestrate ➜ 🤖 Multi-Agent Workflows
+       ⬇️
+⚡ Optimize ➜ 🌍 Real-World Solutions
+       ⬇️
+🔁 Iterate ➜ 📚 Back to Research
+```
 
 ---
 
@@ -47,9 +78,9 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
       <p><b>Project: BidFactory</b> — AI-Powered RFP Response & Compliance Platform</p>
       <ul>
         <li>Worked as part of the winning team that engineered <b>BidFactory</b> to automate complex, manual RFP and tender document processing.</li>
-        <li><b>System Architecture & Workflow:</b><br/>
-          <code>RFP Document</code> ➔ <code>Requirement Extraction</code> ➔ <code>Knowledge Base Indexing</code> ➔ <code>Hybrid Semantic + Lexical Retrieval (Neo4j)</code> ➔ <code>Compliance Assessment</code> ➔ <code>LLM Response Generation</code> ➔ <code>Human-in-the-Loop Review (Approve/Revise/Reject)</code></li>
-        <li><b>Technologies:</b> RAG, Neo4j, Hybrid Retrieval, Semantic & Lexical Search, LLM Generation, Human-in-the-Loop Workflows, RocketRide Cloud Integration.</li>
+        <li><b>System Architecture:</b><br/>
+          <code>RFP Document</code> ➔ <code>Requirement Extraction</code> ➔ <code>Neo4j Hybrid Retrieval</code> ➔ <code>LLM Generation</code> ➔ <code>Human-in-the-Loop Review</code></li>
+        <li><b>Technologies:</b> RAG, Neo4j, Hybrid Retrieval, Semantic & Lexical Search, LLM Generation, RocketRide Cloud.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -57,8 +88,7 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
       <p><b>Event:</b> <a href="https://zeros-arena-1.devfolio.co/">Zero's Arena 01</a></p>
       <p><b>Achievement:</b> Won the <b>Best AI/ML Project</b> award for building innovative machine learning applications under competitive hackathon conditions.</p>
       <ul>
-        <li>Applied rapid prototyping, model evaluation, and backend integration to deliver a functional AI-driven solution.</li>
-        <li>Demonstrated strong technical problem-solving and presentation capabilities under time constraints.</li>
+        <li>Applied rapid prototyping, model evaluation, and backend integration to deliver a functional AI-driven solution under tight deadlines.</li>
       </ul>
     </td>
   </tr>
@@ -66,33 +96,36 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
 
 ---
 
-## ⚡ Technical Skills
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Programming & Frameworks
+### 🤖 Agentic AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=robot&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=brain&logoColor=white)
+
+### 💻 Programming & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🤖 AI, Machine Learning & Generative AI
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-008080?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![RAG Architectures](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=for-the-badge&logo=brain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF4500?style=for-the-badge&logo=robot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📊 Data & Storage Systems
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+### 🗄️ Databases & Web
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 📊 Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -102,12 +135,11 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
 
 ### 🌌 1. [AstroGeo — Earth & Space Data Intelligence Assistant](https://github.com/Sanchita2212/AstroGeo)
 > **Repositories:** [AstroGeo Backend](https://github.com/Sanchita2212/AstroGeo) | [AstroGeo Frontend](https://github.com/Sanchita2212/AstroGeofrontend)  
-> **Stack:** `Python` • `RAG` • `LangChain` • `ChromaDB` • `SentenceTransformers` • `Neo4j` • `CrewAI` • `FastAPI` • `React`
+> **Stack:** `Python` • `RAG` • `LangChain` • `ChromaDB` • `Neo4j` • `CrewAI` • `FastAPI` • `React`
 
 * Worked as part of a project team developing an AI-powered Earth and Space Data Intelligence assistant designed to make satellite and Earth observation datasets accessible via natural language queries.
 * Integrated vector search with ChromaDB and knowledge graph structures in Neo4j for hybrid context retrieval.
 * Leveraged CrewAI multi-agent orchestrations to break down complex scientific data requests into specialized query tasks connected to a React web interface.
-* **Key Learnings:** RAG pipeline architecture, hybrid semantic retrieval, knowledge graph concepts, multi-agent AI workflows, and connecting AI backends to web applications.
 
 ---
 
@@ -117,7 +149,6 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
 * Built a deep learning classification pipeline that utilizes fingerprint images for non-invasive blood group estimation.
 * Implemented image preprocessing, contrast adjustments, and data augmentation techniques to prepare biometric image samples.
 * Designed and evaluated Convolutional Neural Network (CNN) architectures to train models on fingerprint pattern features.
-* **Key Learnings:** Biometric image preprocessing techniques, CNN feature extraction, model evaluation metrics, and managing computer vision training pipelines.
 
 ---
 
@@ -125,9 +156,8 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
 > **Stack:** `Python` • `YOLOv8` • `MediaPipe Pose` • `OpenCV` • `Twilio API`
 
 * Developed a real-time computer vision monitoring system engineered to detect elderly fall events from video feeds.
-* Combined YOLOv8 object detection for spatial tracking with MediaPipe Pose landmark analysis to compute body orientation angles and bounding box aspect ratios.
+* Combined YOLOv8 object detection for spatial tracking with MediaPipe Pose landmark analysis to compute body orientation angles.
 * Integrated automated Twilio SMS alert triggers when posture angles exceed critical thresholds across consecutive frames.
-* **Key Learnings:** Pose angle kinematics, multi-frame state tracking for false positive reduction, real-time video stream processing, and external emergency alert integration.
 
 ---
 
@@ -137,37 +167,27 @@ I am an AI & Machine Learning student passionate about constructing end-to-end i
 * Developed a cross-platform mobile ticketing application tailored for urban monorail transport management.
 * Built user authentication, interactive ticket booking interfaces, option selection views, and verification screens.
 * Connected the mobile frontend to a MongoDB database to handle user registrations and booking records.
-* **Key Learnings:** Cross-platform mobile development with Flutter, state management, database schema integration, and user workflow design.
+
+---
+
+## 💼 Work & Leadership Experience
+
+* 💼 **Intern @ Magic Bus**
+  * Currently interning at Magic Bus, applying technology and data-driven solutions in real-world scenarios.
+* 💡 **Data Science & ML Coordinator — Google Developer Groups (GDG) On Campus SIES GST**
+  * Contributing to technical community initiatives, supporting AI/ML learning activities, coordinating workshops, and encouraging student developer engagement.
+* 🎨 **Creative Mentor — Institution of Engineering and Technology (IET)**
+  * Mentoring student teams in design, publicity, marketing, registration workflows, and creative execution for technical events.
+* 📚 **Coordinator — Literary Team**
+  * Managing event coordination, team communication, and student engagement initiatives across campus events.
 
 ---
 
 ## 🎓 Certifications & Learning
 
-* 🌌 **BRICS Data Analytics Training** — Completed an intensive 10-week Data Analytics program focused on astronomy and space-data applications. Gained hands-on experience applying machine learning and analytical methodologies to scientific datasets.
+* 🌌 **BRICS Data Analytics Training** — Completed an intensive 10-week Data Analytics program focused on astronomy and space-data applications.
 * 📊 **Introduction to Data Science — Infosys** — Completed foundational certification covering core data science concepts, data modeling, exploratory analysis, and statistical evaluation.
 * ☁️ **AWS Cloud Learning & Badges** — Actively earning AWS learning badges to build foundational knowledge of cloud infrastructure and deployment concepts.
-
----
-
-## 👩‍💻 Leadership & Community Experience
-
-* 💡 **Data Science & ML Coordinator — Google Developer Groups (GDG) On Campus SIES GST**
-  * Contributing to technical community initiatives, supporting AI/ML learning activities, coordinating workshops, and encouraging student developer engagement.
-* 🎨 **Creative Mentor — Institution of Engineering and Technology (IET)**
-  * Mentoring student teams in design, publicity, marketing, registration workflows, and creative execution for technical events and seminars.
-* 📚 **Coordinator — Literary Team**
-  * Managing event coordination, team communication, event planning, and student engagement initiatives across campus events.
-
----
-
-## 🎯 Current Learning Journey
-
-I am actively focused on advancing my skills across key areas of modern AI engineering:
-
-* 🧠 **Production AI Engineering:** Transitioning from standalone prototypes toward modular, robust, and scalable AI services.
-* 🔎 **RAG Quality & Retrieval:** Enhancing semantic search, chunking strategies, vector indexing, and hybrid retrieval with graph databases.
-* 🤖 **Agentic Frameworks:** Deepening my understanding of multi-agent workflows, state management, and tool integration.
-* 🛠️ **Deep Code Understanding:** Developing the discipline to thoroughly inspect, test, and refine AI-generated code rather than blindly relying on output.
 
 ---
 
@@ -190,7 +210,6 @@ I am actively focused on advancing my skills across key areas of modern AI engin
 | :--- | :--- |
 | **GitHub** | [github.com/Sanchita2212](https://github.com/Sanchita2212) |
 | **LinkedIn** | [linkedin.com/in/sanchitagupta-aiml](https://www.linkedin.com/in/sanchitagupta-aiml/) |
-| **Email** | [your.email@example.com](sanchitagupta2022@gmail.com) |
 
 ---
 
