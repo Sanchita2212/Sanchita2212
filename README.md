@@ -190,7 +190,7 @@ I am actively focused on advancing my skills across key areas of modern AI engin
 | :--- | :--- |
 | **GitHub** | [github.com/Sanchita2212](https://github.com/Sanchita2212) |
 | **LinkedIn** | [linkedin.com/in/sanchitagupta-aiml](https://www.linkedin.com/in/sanchitagupta-aiml/) |
-| **Email** | [your.email@example.com](mailto:your.email@example.com) *(Update Email)* |
+| **Email** | [your.email@example.com](sanchitagupta2022@gmail.com) |
 
 ---
 
