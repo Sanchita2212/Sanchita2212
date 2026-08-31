@@ -178,17 +178,6 @@ I am an AI & Machine Learning student and developer passionate about constructin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanchita2212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanchita's GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchita2212&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
