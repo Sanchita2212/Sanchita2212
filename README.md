@@ -1,30 +1,19 @@
-<div align="center">
+<div align="center"> 
 
 # ❓ WHO'S THAT POKÉMON?
 
-*You see a silhouette in the distance...*
+*You see a silhouette in the distance...*  
+**Tall?** Maybe. • **Sleep deprived?** Definitely. • **Writes code at 2 AM?** Absolutely.  
 
-Tall? Maybe.  
-Sleep deprived? Definitely.  
-Writes code at 2 AM? Absolutely.  
+### ⚡ IT'S SANCHITA GUPTA!
 
-...
-
-# ⚡ IT'S SANCHITA GUPTA!
-
-> *A developer who wandered into GitHub  
-> and decided to stay.*
+> *A developer who wandered into GitHub and decided to stay.*
 
 💼 **Status:** Interning @ **Magic Bus**  
 🎮 **Class:** AI & Machine Learning Developer  
 🧪 **Type:** `Python` • `RAG Pipelines` • `PyTorch` • `FastAPI` • `Neo4j`  
 ✨ **Ability:** `Rapid Prototyping` & `Multi-Agent AI Workflows`  
 💀 **Weakness:** `CSS` *(centering a div is a boss battle)*  
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchita2212)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchitagupta-aiml/)
 
 </div>
 
@@ -109,7 +98,6 @@ I am an AI & Machine Learning student and developer passionate about constructin
 ### 💻 Programming & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -206,10 +194,8 @@ I am an AI & Machine Learning student and developer passionate about constructin
 
 <div align="center">
 
-| Platform | Link |
-| :--- | :--- |
-| **GitHub** | [github.com/Sanchita2212](https://github.com/Sanchita2212) |
-| **LinkedIn** | [linkedin.com/in/sanchitagupta-aiml](https://www.linkedin.com/in/sanchitagupta-aiml/) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchita2212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchitagupta-aiml/)
 
 ---
 
