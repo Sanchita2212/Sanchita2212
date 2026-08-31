@@ -12,8 +12,7 @@
 💼 **Status:** Interning @ **Magic Bus**  
 🎮 **Class:** AI & Machine Learning Developer  
 🧪 **Type:** `Python` • `RAG Pipelines` • `PyTorch` • `FastAPI` • `Neo4j`  
-✨ **Ability:** `Rapid Prototyping` & `Multi-Agent AI Workflows`  
-💀 **Weakness:** `CSS` *(centering a div is a boss battle)*  
+✨ **Ability:** `Rapid Prototyping` & `Multi-Agent AI Workflows`    
 
 </div>
 
